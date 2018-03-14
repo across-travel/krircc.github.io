@@ -1,4 +1,4 @@
-title:   Projects
+title:  kriry | Projects
 layout: projects.liquid
 permalink: /projects.html
 ---

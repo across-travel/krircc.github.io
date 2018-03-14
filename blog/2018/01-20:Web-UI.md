@@ -1,4 +1,4 @@
-title:  Blog::Web UI
+title:  kriry | Blog::Web UI
 layout: blog.liquid
 permalink: /blog/2018/01-20:Web-UI.html
 ---
