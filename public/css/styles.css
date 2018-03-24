@@ -27,6 +27,9 @@
   }
 
 /* ----------------------------------------nav----------------------------------------*/
+  #mnav {
+    background-image: url("../imgs/back.jpg");
+  }
   #lnav {
     position: fixed;
     width: 100%;
