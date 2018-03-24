@@ -151,7 +151,8 @@
       padding: 11rem 2rem 8rem;
       text-align: center;
       line-height: 2rem;
-      background-color: var(--black);
+      /*background-color: var(--black);*/
+      background-image: url("../imgs/back.jpg");
   }
   #index-top h1 {
       font-size: 2rem;
