@@ -27,16 +27,13 @@
   }
 
 /* ----------------------------------------nav----------------------------------------*/
-  header {
-    background-image: url("../imgs/back.jpg");
-  }
   #lnav {
     position: fixed;
     width: 100%;
     line-height: 60px;
     zoom:1;
     display: flex;
-/*     background-color: var(--black); */
+    background-color: var(--black);
     justify-content: space-between;
     border-bottom: 1px solid var(--purple);
     /* border-bottom: 1px solid #dfdcdc;  
@@ -154,8 +151,8 @@
       padding: 11rem 2rem 8rem;
       text-align: center;
       line-height: 2rem;
-      /*background-color: var(--black);*/
-      background-image: url("../imgs/back.jpg");
+      background-color: var(--black);
+/*       background-image: url("../imgs/back.jpg"); */
   }
   #index-top h1 {
       font-size: 2rem;
